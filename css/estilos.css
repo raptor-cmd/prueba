@@ -21,3 +21,10 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
