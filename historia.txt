@@ -1,6 +1,6 @@
 Bienvenidos a mi regreso 
 
-Esta es la historia de Machito con Locura
+Esta es la historia de un nuevo programador para tu proyecto Open Source
 
 Quiere ser programador
 
